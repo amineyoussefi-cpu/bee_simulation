@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Configuration locale et données
+.env
+data/
+
+# Godot
+godot/.godot/
+*.import
+
+# Outils locaux
+.claude/
+.DS_Store
